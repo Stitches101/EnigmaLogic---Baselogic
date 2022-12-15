@@ -1,0 +1,45 @@
+body {	FONT-FAMILY: arial,helvetica,sans-serif;
+	FONT-SIZE: 16px;
+	background-color: #DADDEE;
+	color: #000000;
+	margin-left: 30px;
+	background-image: url(background.jpg);
+	}
+h1 {	text-decoration:none;
+	font-family: "Trebuchet MS", Arial, sans-serif;
+	font-size: 24px;
+	color:white;
+	background-color:#003366;
+	font-weight:bold;
+	padding:0px 0px 2px 6px;
+	border-bottom: 12px solid #003366;
+	border-top: 12px solid #003366;
+	border-right: 20px solid #003366;
+	border-left: 12px solid #003366;
+	width:100%;
+	align:center;
+	margin-left:-15px;
+	}
+h2 {	text-decoration:none;
+	font-family: "Trebuchet MS", Arial, sans-serif;
+	font-size: 16px;
+	color:white;
+	background-color:#003366;
+	font-weight:bold;
+	padding:0px 0px 2px 6px;
+	border-bottom: 8px solid #003366;
+	border-top: 8px solid #003366;
+	border-right: 10px solid #003366;
+	border-left: 12px solid #003366;
+	width:100%;
+	align:center;
+	margin-left:-15px;
+	}
+table.subtable{
+	padding-bottom: 0px;
+	}
+th {	FONT-SIZE: 16px;
+	}
+td {	FONT-SIZE: 16px;
+	}
+
