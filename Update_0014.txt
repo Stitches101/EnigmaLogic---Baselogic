@@ -1,0 +1,107 @@
+
+--------------------------------------------------------------------------------
+     Update Version 0000
+--------------------------------------------------------------------------------
+
+04.04.2018 Jonker start    
+
+//Enigma Block EL01: Internal Analysis System    [un]
+
+//Energy Block EL02_02: Data Transmitter to Energy Central    [un]
+//Function Block EL02_03: twoRamp [un]
+//Function Block EL02_04: threeRamp [un]
+//Enigma Block EL02_05: PI Regler Main Pump [un]
+//Enigma Block EL02_06: Sunscreen System
+//Function Block EL02_07: Y function Calculation
+//Function Block EL02_08: PI Regler Heating/Cooling [un]
+
+//Function Block EL03_01: testblock [un][del]
+
+//Enigma Block EL04_01: TCP Server Connection [un]
+
+                                                  
+--------------------------------------------------------------------------------
+     Update Version 0001
+--------------------------------------------------------------------------------
+5.11.2018 one H and C plugin centralisering    
+--------------------------------------------------------------------------------
+     Update Version 0002
+--------------------------------------------------------------------------------
+26.11.2018 libary update 2.2 to 2.8 removed and in 1 libary 9.1.c new
+2.1c new 3 plugin intern
+
+threeramp repair
+proportionel repair
+
+--------------------------------------------------------------------------------
+     Update Version 0003
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+     Update Version 0004
+--------------------------------------------------------------------------------
+sunscreen manual + swipe
+pump system 
+recirculation integrated
+--------------------------------------------------------------------------------
+     Update Version 0005
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+     Update Version 0006
+--------------------------------------------------------------------------------
+repair EL0104 systemtemp cool/heat min/max
+--------------------------------------------------------------------------------
+     Update Version 0007
+--------------------------------------------------------------------------------
+
+Added EL 1-03 Array
+Added EL 1-08 Analize Zone Valve
+Added EL 1-09 Analize Zone Temp
+Added EL 1-10 Analize Overview
+Adjusted EL 1-07 Detail
+Adjusted EL 1-05 To Import EL 1-03, EL 1-08, EL 1-09, EL 1-10. 
+
+
+
+--------------------------------------------------------------------------------
+     Update Version 0008
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+     Update Version 0009
+--------------------------------------------------------------------------------
+Added EL 1-12 Roomtemperature 
+--------------------------------------------------------------------------------
+     Update Version 0010
+--------------------------------------------------------------------------------
+Added EL 1-13 Room Valve Controller 
+Added EL 1-14 Valve Controller Data Step 2 
+Added EL 1-99 Enigma Rythem
+Adjusted EL 1-08 time  
+Adjusted EL 1-05 problem hot/cold 
+--------------------------------------------------------------------------------
+     Update Version 0011
+--------------------------------------------------------------------------------
+Added EL 1-14 Valve Controller Data Step 2 adjusted
+Added EL 1-99 Enigma Rythem adjusted
+Adjusted EL 1-05 with SA-min and SA-max
+--------------------------------------------------------------------------------
+     Update Version 0012
+--------------------------------------------------------------------------------
+06-04-2020 
+Update Superstructures
+Update Transfer System
+Update Enigma Rythem
+First WKO Concept
+
+--------------------------------------------------------------------------------
+     Update Version 0013
+--------------------------------------------------------------------------------
+06-04-2020 
+Zone.F&X Supply Temperature Controler 9 min stop per proces
+Flow RA controler 0.1 -> 10
+--------------------------------------------------------------------------------
+     Update Version 0014
+--------------------------------------------------------------------------------
+Final Update SWF

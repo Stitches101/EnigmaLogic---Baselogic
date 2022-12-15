@@ -1,0 +1,53 @@
+
+--------------------------------------------------------------------------------
+     Update Version 0000
+--------------------------------------------------------------------------------
+
+04.04.2018 Jonker start    
+
+//Enigma Block EL01: Internal Analysis System    [un]
+
+//Energy Block EL02_02: Data Transmitter to Energy Central    [un]
+//Function Block EL02_03: twoRamp [un]
+//Function Block EL02_04: threeRamp [un]
+//Enigma Block EL02_05: PI Regler Main Pump [un]
+//Enigma Block EL02_06: Sunscreen System
+//Function Block EL02_07: Y function Calculation
+//Function Block EL02_08: PI Regler Heating/Cooling [un]
+
+//Function Block EL03_01: testblock [un][del]
+
+//Enigma Block EL04_01: TCP Server Connection [un]
+
+                                                  
+--------------------------------------------------------------------------------
+     Update Version 0001
+--------------------------------------------------------------------------------
+5.11.2018 one H and C plugin centralisering    
+--------------------------------------------------------------------------------
+     Update Version 0002
+--------------------------------------------------------------------------------
+26.11.2018 libary update 2.2 to 2.8 removed and in 1 libary 9.1.c new
+2.1c new 3 plugin intern
+
+threeramp repair
+proportionel repair
+
+--------------------------------------------------------------------------------
+     Update Version 0003
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+     Update Version 0004
+--------------------------------------------------------------------------------
+sunscreen manual + swipe
+pump system 
+recirculation integrated
+--------------------------------------------------------------------------------
+     Update Version 0005
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+     Update Version 0006
+--------------------------------------------------------------------------------
+repair EL0104 systemtemp cool/heat min/max

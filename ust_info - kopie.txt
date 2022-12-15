@@ -1,0 +1,12 @@
+Enigma Plugin 01
+__EL01_1.lib ;
+__EL02_2.lib ;
+__EL02_3.lib ;
+__EL02_4.lib ;
+__EL02_5.lib ;
+__EL02_6.lib ;
+__EL02_7.lib ;
+__EL02_8.lib ;
+__EL03_1.lib ;
+__EL03_2.lib ;
+__EL04_1.lib ;
